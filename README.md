@@ -2,7 +2,7 @@
 Real Time Face Recognition by FaceNet
 
 This application used the [FaceNet](https://github.com/davidsandberg/facenet) library of [@davidsandberg](https://github.com/davidsandberg) 
-to implement the real time face recognition on the your computer's camera. This implementation made several changes to face.py and real_time_face_recognition.py
+to implement the real time face recognition on the your computer's camera. This implementation made several changes to ```face.py``` and ```real_time_face_recognition.py```.
 to adapt to this modification.
 
 ### The general procedures are:
