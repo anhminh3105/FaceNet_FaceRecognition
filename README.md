@@ -13,6 +13,7 @@ to adapt to this modification.
 5. Compare these face embeddings with your embedding database and find the matching person.
 
 ### To run this application:
+0. Download the pre-trained model [20180402-114759](https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view) to folder ```model_checkpoints/```
 1. Make a folder of images of people you want to recognise (one person for each image) and
 name the images with respect to the corresponding people. 
 2. Clone the repository to your local computer.
